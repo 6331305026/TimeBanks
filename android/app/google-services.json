@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "832731947805",
+    "project_id": "timebanks-a503c",
+    "storage_bucket": "timebanks-a503c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:832731947805:android:0e0fe8516cf00d1625f7f4",
+        "android_client_info": {
+          "package_name": "com.mycompany.timebanks"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPxhEbw0JJ-n99RI5WDV4kiwdLFECvxGs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
